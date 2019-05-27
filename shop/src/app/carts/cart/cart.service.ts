@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
-import { Product } from '../common/classes/product';
-import { ProdCategory } from '../common/prodCategory';
+import { Product } from '../../common/classes/product';
+import { ProdCategory } from '../../common/prodCategory';
 
 const boughtProducts: Product[] = [
   {
